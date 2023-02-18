@@ -1,6 +1,6 @@
 # dont-touch-the-spick
 
-> Ce programme utilise l'interface graphique **pygame** qu'il faut installer préalablement.
+> Ce programme utilise la bibliothèque graphique **pygame** qu'il faut installer préalablement.
 
 Il s'agit d'un jeu avec une balle qui sotte d'un mure à l'autre et qui doit esquiver les piques sur les murs.
 
